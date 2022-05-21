@@ -4,7 +4,7 @@ description: The only Muscadet issued from the Hellfest soil in Clisson
 baseurl: /
 canonicalurl: true
 theme:
-  - hyde
+  - garth
   - netlify
   - netlify-cms
 keywords:
@@ -18,5 +18,5 @@ date:
 hyde:
   sidebar:
     sticky: true
-  theme: ""
-  reverse: false
+  theme: "red"
+  reverse: true
