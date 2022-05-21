@@ -1,7 +1,7 @@
 ---
 title: "Hellfest 2016 : introducing vintage 2015 for cuvée hellfest 2016"
 date: 2022-05-21T19:23:31.696Z
-image: http://www.kingdom-of-muscadet.com/content/images/2015/10/_AS_0094---Version-2-2.jpg
+image: /images/img_8247-version-2-1-.jpg
 tags:
   - Muscadet
   - vintage
