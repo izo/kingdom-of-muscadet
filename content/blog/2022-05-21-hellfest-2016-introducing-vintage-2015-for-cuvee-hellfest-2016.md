@@ -14,7 +14,7 @@ tags:
   - harvest
   - vendanges
   - loire
-draft: true
+draft: false
 ---
 En attendant l'affiche de la 11ème édition du Hellfest, les Vignerons de Kingdom Of Muscadet présentent le millésime 2015 qui sera servi au bar à vin du 17 au 19 juin 2016. **Metal up your glass!!!**
 
