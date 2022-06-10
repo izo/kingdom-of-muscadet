@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "97998aa15cc08ff8517f3a6554e16d53",
+    "content-hash": "80baeb3d0f204a9e3190d1e5bd231aa0",
     "packages": [
         {
             "name": "cecil/theme-garth",
